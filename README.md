@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm **Ganapriya N**, a Computer Science Engineering student passionate about software development, web technologies, and AI-driven solutions. I enjoy building impactful projects, learning new technologies, and contributing to open-source while continuously improving my problem-solving skills.<br>- 🤝 I’m looking to collaborate on **Web Development & Open Source Projects**<br>- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB, and Data Structures & Algorithms**<br>- 💬 Ask me about **HTML, CSS, JavaScript, React, Git, and C**<br>- ⚡ Fun fact: **I love turning ideas into real-world projects and enjoy participating in hackathons!**
+#  About Me:
+##  About Me<br><br>I'm **Ganapriya N**, a Computer Science Engineering student passionate about software development, web technologies, and AI-driven solutions. I enjoy building impactful projects, learning new technologies, and contributing to open-source while continuously improving my problem-solving skills.<br>- 🤝 I’m looking to collaborate on **Web Development & Open Source Projects**<br>- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB, and Data Structures & Algorithms**<br>- 💬 Ask me about **HTML, CSS, JavaScript, React, Git, and C**<br>- ⚡ Fun fact: **I love turning ideas into real-world projects and enjoy participating in hackathons!**
 
 
 ## 🌐 Socials:
