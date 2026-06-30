@@ -23,7 +23,7 @@ I am a **Computer Science Engineering** student passionate about building high-p
 
 ## 🚀 Featured Project: JHEN
 
-### **[JHEN — Just-in-Time Hybrid Execution Network](https://github.com/gana16priya-png/jhen-hybrid-network)**
+### **[JHEN — Just-in-Time Hybrid Execution Network]**
 An intelligent, local-first AI orchestration network that checks prompt complexity inside the client browser. It routes lighter tasks to local client hardware using **WebGPU** (slashing cloud inference overhead to **$0**) and seamlessly escalates heavy computations to cloud endpoints via an asynchronous **FastAPI** pipeline.
 *   *Built with: React, FastAPI, WebGPU, Python, MongoDB, Framer Motion*
 
