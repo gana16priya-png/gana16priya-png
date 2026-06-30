@@ -21,11 +21,27 @@ I am a **Computer Science Engineering** student passionate about building high-p
 
 ---
 
-## 🚀 Featured Project: JHEN
+## 🚀 Flagship Project
 
 ### **[JHEN — Just-in-Time Hybrid Execution Network](https://github.com/gana16priya-png/jhen-hybrid-network)**
 An intelligent, local-first AI orchestration network that checks prompt complexity inside the client browser. It routes lighter tasks to local client hardware using **WebGPU** (slashing cloud inference overhead to **$0**) and seamlessly escalates heavy computations to cloud endpoints via an asynchronous **FastAPI** pipeline.
 *   *Built with: React, FastAPI, WebGPU, Python, MongoDB, Framer Motion*
+
+---
+
+## 📂 Other Core Engineering Projects
+
+### **Smart Multi-Layer Farming System using IoT**
+An automated, multi-tiered agricultural automation platform built to resolve resource distribution and inefficient water usage challenges.
+*   Implemented automated irrigation system workflows utilizing **ESP32 microcontrollers** and sensor arrays.
+*   Designed dynamic data tracking configurations to monitor soil moisture parameters and optimize real-time water distribution.
+*   *Built with: ESP32, IoT Protocols, Automation Sensors*
+
+### **Intelligent AGV Task Scheduling System**
+A performance-driven warehouse logistics dashboard optimized to resolve task allocation bottlenecks and monitor heavy machinery assets.
+*   Developed a fluid, real-time asset visualization interface using the native browser **Canvas API** to track Automated Guided Vehicle (AGV) coordinates.
+*   Built lightweight analytical monitoring components and managed persistent client state using **LocalStorage**.
+*   *Built with: HTML5 Canvas, CSS3, Vanilla JavaScript*
 
 ---
 
@@ -40,10 +56,10 @@ An intelligent, local-first AI orchestration network that checks prompt complexi
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/gana-priya-aa5868290?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:gana16priya@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
