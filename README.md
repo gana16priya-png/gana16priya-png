@@ -21,27 +21,11 @@ I am a **Computer Science Engineering** student passionate about building high-p
 
 ---
 
-## 🚀 Flagship Project
+## 🚀 Featured Project: JHEN
 
 ### **[JHEN — Just-in-Time Hybrid Execution Network](https://github.com/gana16priya-png/jhen-hybrid-network)**
 An intelligent, local-first AI orchestration network that checks prompt complexity inside the client browser. It routes lighter tasks to local client hardware using **WebGPU** (slashing cloud inference overhead to **$0**) and seamlessly escalates heavy computations to cloud endpoints via an asynchronous **FastAPI** pipeline.
 *   *Built with: React, FastAPI, WebGPU, Python, MongoDB, Framer Motion*
-
----
-
-## 📂 Other Core Engineering Projects
-
-### **Smart Multi-Layer Farming System using IoT**
-An automated, multi-tiered agricultural automation platform built to resolve resource distribution and inefficient water usage challenges.
-*   Implemented automated irrigation system workflows utilizing **ESP32 microcontrollers** and sensor arrays.
-*   Designed dynamic data tracking configurations to monitor soil moisture parameters and optimize real-time water distribution.
-*   *Built with: ESP32, IoT Protocols, Automation Sensors*
-
-### **Intelligent AGV Task Scheduling System**
-A performance-driven warehouse logistics dashboard optimized to resolve task allocation bottlenecks and monitor heavy machinery assets.
-*   Developed a fluid, real-time asset visualization interface using the native browser **Canvas API** to track Automated Guided Vehicle (AGV) coordinates.
-*   Built lightweight analytical monitoring components and managed persistent client state using **LocalStorage**.
-*   *Built with: HTML5 Canvas, CSS3, Vanilla JavaScript*
 
 ---
 
